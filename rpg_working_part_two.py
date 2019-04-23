@@ -67,7 +67,7 @@ zombie = Zombie(9,1, "zombie")
 
 def main():
 
-    #while goblin.alive() andnhero.alive():
+    #while goblin.alive() and hero.alive():
     while hero.alive():
         hero.print_status()
         #goblin.print_status()
